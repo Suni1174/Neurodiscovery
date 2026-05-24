@@ -1,7 +1,7 @@
 # Cricket Ball Detection and Tracking  
-**EdgeFleet.AI – Round 1 AI/ML Assessment**
+**Neurodiscovery.AI – Assesment**
 
-This repository contains the complete implementation for the **cricket ball detection and tracking pipeline** developed as part of **Round 1 of the EdgeFleet.AI recruitment process**. The solution combines multimodal grounding-based localization with video-level segmentation and tracking to robustly track a cricket ball from a single fixed-camera broadcast video.
+This repository contains the complete implementation for the **cricket ball detection and tracking pipeline** developed as part of **recruitment process**. The solution combines multimodal grounding-based localization with video-level segmentation and tracking to robustly track a cricket ball from a single fixed-camera broadcast video.
 
 ---
 
